@@ -1,5 +1,5 @@
 # SARTHAK-S-WEBSPACE
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -135,8 +135,7 @@
     </footer>
 	        <h2>Contact Us</h2>
         <form>
-            <label for="name">Your Name:</label>
-            <input type="text" id="name" name="name" required>
+            
 
             <label for="email">Your Email:</label>
             <input type="email" id="email" name="email" value="sarthakz788@gmail.com" required>
@@ -145,7 +144,7 @@
             <input type="tel" id="mobile" name="mobile" pattern="[0-9]{10}" value="7447299804" required>
             <small>Enter a 10-digit mobile number without spaces or dashes.</small>
 
-            <label for="message">Your Message:</label>
+            
             <textarea id="message" name="message" rows="4" required></textarea>
 
 </body>
